@@ -31,13 +31,8 @@ lib/
 │   └── theme_provider.dart
 ├── screens/
 │   ├── catalog_screen.dart
-│   └── cart_screen.dart<img width="480" height="912" alt="Cuplikan layar 2026-10-26 154508" src="https://github.com/user-attachments/assets/0b72d6ec-7ae2-4fa2-8627-ea2013cf91ed" />
-
+│   └── cart_screen.dart
+|
 └── main.dart
 
-**📸  Tangkapan Layar (Screenshots)**
-1. Halaman Katalog & Badge Keranjang
-![Uploading Cuplikan layar 2026-10-26 154508.png…]()
-2.Halaman Keranjang Belanja & Total Harga (Rupiah)
-<img width="475" height="917" alt="Cuplikan layar 2026-10-26 154543" src="https://github.com/user-attachments/assets/4fbdf725-04da-4302-83bb-a972996296f7" />
 
